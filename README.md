@@ -69,8 +69,8 @@ $ cat contact.txt
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
-    <img alt="contribution snake" src="./dist/github-contribution-grid-snake.svg" width="96%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snowbitx/snowbitx/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/snowbitx/snowbitx/output/github-contribution-grid-snake.svg" width="96%" />
   </picture>
 </p>
 
