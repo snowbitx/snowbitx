@@ -44,14 +44,14 @@ $ cat contact.txt
 
 <p align="center">
   <a href="https://github.com/snowbitx">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=snowbitx&theme=react-dark&hide_border=true&bg_color=0d1117&color=4080FF&area=true" alt="activity graph" width="96%" />
+    <img src="https://ghchart.rshah.org/4080FF/snowbitx" alt="contribution chart" width="96%" />
   </a>
 </p>
 
 <h2 align="center">⚡ GitHub Stats</h2>
 
 <p align="center">
-  <img height="165" src="https://stats.deeptrain.net/repo/snowbitx/?theme=dark" alt="github stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snowbitx&theme=nord_dark&utcOffset=8" alt="github stats" />
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=snowbitx&layout=compact&hide_border=true&bg_color=0d1117&title_color=4080FF&text_color=c9d1d9" alt="top langs" />
 </p>
 
