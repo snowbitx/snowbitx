@@ -38,7 +38,7 @@ $ ls projects
 # 🖥 ai-screen-design / ai-screen-server → AI screen design tooling
 
 $ cat contact.txt
-# Email  → WangXiaoYu_1995@outlook.com
+# Email  → snowbitx@gmail.com
 # GitHub → @snowbitx
 ```
 
