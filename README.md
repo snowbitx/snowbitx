@@ -51,17 +51,17 @@ $ cat contact.txt
 <h2 align="center">⚡ GitHub Stats</h2>
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snowbitx&theme=nord_dark&utcOffset=8" alt="github stats" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowbitx&theme=nord_dark" alt="profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowbitx&theme=nord_dark" alt="profile details" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snowbitx&theme=nord_dark" alt="repos per language" width="49%" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snowbitx&theme=nord_dark&utcOffset=8" alt="github stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snowbitx&theme=nord_dark" alt="repos per language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snowbitx&theme=nord_dark" alt="most commit language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snowbitx&theme=nord_dark&utcOffset=8" alt="productive time" width="49%" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snowbitx&theme=nord_dark" alt="most commit language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snowbitx&theme=nord_dark&utcOffset=8" alt="productive time" />
 </p>
 
 <h2 align="center">🐍 Contribution Snake</h2>
