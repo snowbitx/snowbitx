@@ -52,7 +52,6 @@ $ cat contact.txt
 
 <p align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snowbitx&theme=nord_dark&utcOffset=8" alt="github stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=snowbitx&layout=compact&hide_border=true&bg_color=0d1117&title_color=4080FF&text_color=c9d1d9" alt="top langs" />
 </p>
 
 <p align="center">
