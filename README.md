@@ -11,6 +11,14 @@
   <img src="https://img.shields.io/badge/Open%20Source-72%20PRs%20merged-3FB950?style=flat" alt="open source prs" />
 </p>
 
+<h2 align="center">💣 Contribution Bomber</h2>
+
+<p align="center">
+  <img src="./images/contriboom/game.svg" alt="Contribution bomber animation" width="100%" />
+</p>
+
+<p align="center"><sub>Animation adapted from <a href="https://github.com/broBinChen/broBinChen">broBinChen/broBinChen</a>.</sub></p>
+
 ```bash
 $ whoami
 # snowbitx (Cynnie) · Frontend Engineer · Vue Ecosystem Contributor
